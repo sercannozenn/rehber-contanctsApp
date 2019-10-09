@@ -3,7 +3,7 @@
 <p>
   Proje içerisinde kullanıcı izinleri alınarak nasıl rehberine ulaşılır ve kayıtlı numaraların nasıl alınabileceği yer almaktadır. 
 </p>
-Projede <b>BasicActicity kullanılmıştır.</b>
+Projede <b>BasicActivity kullanılmıştır.</b>
 <p>
 </p>
 <h4>Bakılması Gereken Dosyalar</h4>
